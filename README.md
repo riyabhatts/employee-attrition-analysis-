@@ -22,7 +22,7 @@ This project analyzes employee attrition trends to help the HR department unders
 - Data Modeling
 - Data Cleaning & Transformation
 
-5. Key Metrics (KPIs)
+4. Key Metrics (KPIs)
 
 👥 Total Employees: 963
 ❌ Total Attrition: 133
@@ -31,7 +31,7 @@ This project analyzes employee attrition trends to help the HR department unders
 💰 Average Salary: 6.3K
 ⏳ Average Years at Company: 6.9 years
 
-6. Dashboard Insights
+5. Dashboard Insights
 
 1️⃣ Attrition by Education
 
@@ -75,6 +75,9 @@ Manager – 3
 📈 Focus retention strategies on 26–35 age group.
 🤝 Improve onboarding & engagement during early employment years.
 🧪 Analyze work conditions for technical job roles.
+
+6. Screen Shot Demo:
+   https://github.com/riyabhatts/employee-attrition-analysis-/blob/main/Dashboard_SS.png
 
 7. Skills Demonstrated
 
