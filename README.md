@@ -77,8 +77,10 @@ Manager – 3
 🧪 Analyze work conditions for technical job roles.
 
 6. Screen Shot Demo:
-   
+   - old :
    ![Dash Board Preview](https://github.com/riyabhatts/employee-attrition-analysis-/blob/main/Dashboard_SS.png)
+   - new :
+   ![Dashboard Preview](https://github.com/riyabhatts/employee-attrition-analysis-/blob/main/Dashboard_SS4.png)
 
 7. Skills Demonstrated
 
